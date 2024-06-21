@@ -1,0 +1,2 @@
+Cloud Resume Challenge -- Logs
+#1 Attempt, I have managed to host my website using google storage, sadly when I tried to use my custom domain, it didn't work, the ssl certificate never works, I'm trying to figure out by doing another project, I deleted the first attempt, though in retrospect I should have kept it. 
